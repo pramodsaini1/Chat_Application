@@ -7,3 +7,6 @@
 # Managed server-side logic for handling user interactions, message persistence, and security measures.
 
 # Demonstrated ability to work independently and collaboratively to deliver a high-quality, functional application.
+
+## Registration Page
+<img src="chatImages/1.png">
