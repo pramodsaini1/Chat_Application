@@ -10,3 +10,15 @@
 
 ## Registration Page
 <img src="chatImages/1.png">
+
+## Login Page
+<img src="chatImages/2.png">
+
+## Dashboard Page
+<img src="chatImages/3.png"> 
+
+## Search Page
+<img src="chatImages/4.png">
+
+## chat Page
+<img src="chatImages/5.png">
