@@ -23,5 +23,5 @@
 ## chat Page
 <img src="chatImages/5.png">
 
-## multi-meadi Page
+## multi-media Page
 <img src="chatImages/6.png">
